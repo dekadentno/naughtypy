@@ -7,11 +7,11 @@ Don't judge, there are many mind blowing comments that you'll see.
 
 	$ pip install bs4
 
-And you run it with: 
+## And you run it with: 
 
-	### python naughtypy.py
+	$ python naughtypy.py
 
 If you want just to get comments without posting them to tumblr, just set the bot variable to False and run it.
 
-Known bugs:
+## Known bugs:
 * sometimes it just crashes (dooh, I was drunk)
