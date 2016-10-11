@@ -13,5 +13,12 @@ Don't judge, there are many mind blowing comments that you'll see.
 
 If you want just to get comments without posting them to tumblr, just set the bot variable to False and run it.
 
+## Leaderboard:
+* the best part is when he ejaculates
+* A shame, Mojito with a yellow lemon…
+* reminds me of partying at the river
+* I almost came and then he spit in her mouth
+* wow
+
 ## Known bugs:
 * sometimes it just crashes (dooh, I was drunk)
